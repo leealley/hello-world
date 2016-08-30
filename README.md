@@ -1,2 +1,2 @@
 # hello-world
-Initial cut
+This is the initial cut of the Hello World project
